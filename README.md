@@ -2,7 +2,7 @@
 
 A modern AI-powered mental wellness application with emotion detection, personalized therapy, and voice interaction capabilities.
 
-🚀 **Ready for Vercel Deployment!**
+🚀 **Ready for Vercel Deployment!** ✨
 
 ## ✨ Features
 
