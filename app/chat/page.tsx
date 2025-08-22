@@ -366,7 +366,7 @@ export default function ChatPage() {
             <div className="text-center text-gray-400 mt-8">
               <div className="text-4xl mb-4">💭</div>
               <p>Start a conversation with your AI therapist</p>
-              <p className="text-sm mt-2">Share what's on your mind, and I'll provide support.</p>
+              <p className="text-sm mt-2">Share what&apos;s on your mind, and I&apos;ll provide support.</p>
             </div>
           ) : (
             messages.map((msg) => (

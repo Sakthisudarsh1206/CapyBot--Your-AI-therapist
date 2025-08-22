@@ -171,7 +171,7 @@ export default function LandingPage() {
               onClick={handleSignIn}
               className="px-8 py-3 bg-gradient-to-r from-purple-600 to-purple-700 text-white rounded-lg font-semibold hover:from-purple-700 hover:to-purple-800 transition-all duration-300 shadow-lg btn-glow text-lg"
             >
-              Get Started - It's Free! 🌟
+              Get Started - It&apos;s Free! 🌟
             </button>
           )}
         </div>

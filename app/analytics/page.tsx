@@ -327,8 +327,8 @@ export default function AnalyticsPage() {
             <div>
               <h3 className="text-lg font-semibold text-purple-400 mb-2">Your Progress</h3>
               <p className="text-gray-300">
-                You've had {analytics.totalSessions} therapy sessions with a total of {analytics.totalMessages} messages exchanged.
-                {analytics.recentSessions > 0 && ` You've been active this week with ${analytics.recentSessions} sessions.`}
+                You&apos;ve had {analytics.totalSessions} therapy sessions with a total of {analytics.totalMessages} messages exchanged.
+                {analytics.recentSessions > 0 && ` You&apos;ve been active this week with ${analytics.recentSessions} sessions.`}
               </p>
             </div>
             <div>
